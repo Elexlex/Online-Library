@@ -1,0 +1,3 @@
+"bookId","title","genres","authors","description","isAvailable"
+10,"title1","Fantasy, Science Fiction","Jane Smith, Robert Miller","a very good book",true
+11,"title2","Fantasy","Robert Miller","a very good book",true

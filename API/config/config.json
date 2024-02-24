@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Phoenix$$2004",
+    "database": "OnlineLibrary",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Phoenix$$2004",
+    "database": "OnlineLibrary",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Phoenix$$2004",
+    "database": "OnlineLibrary",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
